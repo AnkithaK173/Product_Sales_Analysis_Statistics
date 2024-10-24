@@ -21,13 +21,13 @@ It contains sales data for a variety of electronic products sold on Amazon.
 
 **Key Steps in the Project**
 
-1. Import Libraries and Load Data
+1. **Import Libraries and Load Data**
 
 -- Import necessary Python libraries (Pandas, NumPy, Matplotlib, Seaborn).
 
 -- Load the dataset from a CSV file for analysis.
 
-2. Data Cleaning and Preprocessing
+2. **Data Cleaning and Preprocessing**
    
 -- Handle missing or incorrect data.
 
@@ -35,7 +35,7 @@ It contains sales data for a variety of electronic products sold on Amazon.
 
 -- Convert data types as necessary for further analysis.
 
-3. Exploratory Data Analysis (EDA)
+3. **Exploratory Data Analysis (EDA)**
    
 -- Perform descriptive statistics to understand the dataset.
 
@@ -45,13 +45,13 @@ It contains sales data for a variety of electronic products sold on Amazon.
 
 -- Examine product performance based on ratings, reviews, and sales figures.
 
-4. Visualizations
+4. **Visualizations**
    
 -- Create visual representations of sales trends, product popularity, and customer behavior.
 
 -- Use Matplotlib and Seaborn to create histograms, bar charts, and line graphs for insights.
 
-5. Conclusions and Insights
+5. **Conclusions and Insights**
    
 -- Summarize findings from the data analysis.
 
@@ -70,3 +70,11 @@ It contains sales data for a variety of electronic products sold on Amazon.
 -- Draw conclusions and provide business recommendations.
  
 **How to Run the Project**
+
+1. Install the required Python libraries:
+   
+   pip install pandas numpy matplotlib seaborn
+   
+3. Download the dataset from Kaggle and place it in your project directory.
+   
+4. Run the Jupyter Notebook or Python script to reproduce the analysis.
