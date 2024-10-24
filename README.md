@@ -17,34 +17,43 @@ It contains sales data for a variety of electronic products sold on Amazon.
 
 **Key Steps in the Project**
 1. Import Libraries and Load Data
-[] Import necessary Python libraries (Pandas, NumPy, Matplotlib, Seaborn).
-[] Load the dataset from a CSV file for analysis.
+
+-- Import necessary Python libraries (Pandas, NumPy, Matplotlib, Seaborn).
+-- Load the dataset from a CSV file for analysis.
 
 2. Data Cleaning and Preprocessing
-[] Handle missing or incorrect data.
-[] Remove any duplicates or irrelevant columns.
-[] Convert data types as necessary for further analysis.
+   
+-- Handle missing or incorrect data.
+-- Remove any duplicates or irrelevant columns.
+-- Convert data types as necessary for further analysis.
 
 3. Exploratory Data Analysis (EDA)
-[] Perform descriptive statistics to understand the dataset.
-[] Analyze sales trends over time (daily, weekly, monthly).
-[] Investigate customer behavior, including purchase patterns and preferences.
-[] Examine product performance based on ratings, reviews, and sales figures.
+   
+-- Perform descriptive statistics to understand the dataset.
+-- Analyze sales trends over time (daily, weekly, monthly).
+-- Investigate customer behavior, including purchase patterns and preferences.
+-- Examine product performance based on ratings, reviews, and sales figures.
 
 4. Visualizations
-[] Create visual representations of sales trends, product popularity, and customer behavior.
-[] Use Matplotlib and Seaborn to create histograms, bar charts, and line graphs for insights.
+   
+-- Create visual representations of sales trends, product popularity, and customer behavior.
+-- Use Matplotlib and Seaborn to create histograms, bar charts, and line graphs for insights.
 
 5. Conclusions and Insights
-Summarize findings from the data analysis.
-Identify actionable insights that can inform business strategy, such as high-performing products, peak sales periods, and customer preferences.
+   
+-- Summarize findings from the data analysis.
+-- Identify actionable insights that can inform business strategy, such as high-performing products, peak sales periods, and customer preferences.
 
 **Task List**
 
-[] Import libraries and load the dataset.
-[] Clean and preprocess the data.
-[] Conduct exploratory data analysis (EDA).
-[] Create visualizations for key insights.
- Draw conclusions and provide business recommendations.
+-- Import libraries and load the dataset.
+
+-- Clean and preprocess the data.
+
+-- Conduct exploratory data analysis (EDA).
+
+-- Create visualizations for key insights.
+
+-- Draw conclusions and provide business recommendations.
  
 **How to Run the Project**
